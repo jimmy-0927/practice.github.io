@@ -11,9 +11,13 @@ h1,.food{
     color:bisque;
     background-color: black;
 }
-/*更改全部*/
-*{
-    background-color: white;
+ul{
+    background-image:linear-gradient(#FFEE5E,#74BDFF);
+}
+table{
+    color:black;
+    border:#559DFF 6px solid;
+    background-image: repeating-linear-gradient(50deg,#C3FCFF,#C3FCFF 30px,#A9EDFF 30px,#A9EDFF 80px);
 }
 /*更改ul li*/
 ul li{
