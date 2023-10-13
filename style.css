@@ -1,11 +1,8 @@
 p{
     color:blue;
 }
-h1{
-    color:green;
-}
-.food{
-    color:red;
+h1,.food{
+    color:black;
 }
 .drink{
     color:yellow;
@@ -13,4 +10,16 @@ h1{
 #aa{
     color:bisque;
     background-color: black;
+}
+/*更改全部*/
+*{
+    background-color: white;
+}
+/*更改ul li*/
+ul li{
+    color:blueviolet
+}
+/*滑鼠滑過*/
+ul li:hover{
+    background-color: grey;
 }
